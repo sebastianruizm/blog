@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md" , icon: "book", sidebaricon: "book"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Cursos, icon: user-graduate, url: "http://www.google.com"}
   - {title: Github, icon: github, url: "https://github.com/sebastianruizm"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/sebastianruizmartinez"}
 
