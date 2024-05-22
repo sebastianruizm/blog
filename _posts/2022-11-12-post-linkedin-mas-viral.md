@@ -5,7 +5,7 @@ layout: post
 
 Un día sabado decidí compartir este post en LinkedIn:
 
-https://www.linkedin.com/posts/sebastianruizmartinez_the-data-engineering-manifesto-activity-6995381531133272064-qw8H
+[https://www.linkedin.com/posts/sebastianruizmartinez_the-data-engineering-manifesto-activity-6995381531133272064-qw8H](https://www.linkedin.com/posts/sebastianruizmartinez_the-data-engineering-manifesto-activity-6995381531133272064-qw8H)
 
 Ese mismo dia, Andreas Kretz (Creador de contenido sobre Data Eng) comentó mi post y se hizo viral.
 
