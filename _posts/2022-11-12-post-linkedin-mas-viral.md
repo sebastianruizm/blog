@@ -9,7 +9,7 @@ https://www.linkedin.com/posts/sebastianruizmartinez_the-data-engineering-manife
 
 Ese mismo dia, Andreas Kretz (Creador de contenido sobre Data Eng) comentó mi post y se hizo viral.
 
-Metricas:
+Métricas:
 - Impresiones: 48.551
 - Reacciones: 483
 - Comentarios: 15
