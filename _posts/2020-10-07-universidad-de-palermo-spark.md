@@ -1,5 +1,5 @@
 ---
-title: "Demo Spark Universidad de Palermo 2020"
+title: "Demo Spark Universidad de Palermo"
 layout: post
 ---
 
