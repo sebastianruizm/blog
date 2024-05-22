@@ -1,9 +1,9 @@
 ---
-title: "Demo Spark Univeridad de Palermo 2020"
+title: "Demo Spark Universidad de Palermo 2020"
 layout: post
 ---
 
-Demo Apache Spark para el programa ejecutivo de Big Data y Analytics (Universidad de Palermo, 2020)
+Programa ejecutivo de Big Data y Analytics (Universidad de Palermo, 2020)
 
 ## Entorno
 
