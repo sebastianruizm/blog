@@ -6,7 +6,7 @@ layout: page
 
 ## Blog
 
-Blog sobre Ingenieria de Datos
+Historias de un Ingeniero de Datos
 
 ## License
 
